@@ -22,13 +22,15 @@ This system simulates a real-world online shopping experience where multiple cli
 
 ---
 
-## 📸 Screenshots (Output)
+## 📸 Project Screenshots (Output)
 
-| Main Shop View | Cart & Checkout Success |
+| 🛍️ Main Shop View | 🛒 Shopping Cart |
 | :---: | :---: |
-| ![Shop View](PASTE_YOUR_IMAGE_LINK_1_HERE) | ![Success Message](PASTE_YOUR_IMAGE_LINK_2_HERE) |
+| ![Shop View](./Screenshots/Store%20interface%20and%20Catalog.jfif) | ![Cart Management](./Screenshots/Shopping%20Cart%20Management.jfif) |
 
-> **Note:** To add your own images, upload them to GitHub, copy their link, and replace the placeholders above.
+| 💳 Payment Processing | 🖥️ Server-Client Terminal |
+| :---: | :---: |
+| ![Payment Success](./Screenshots/Payment%20processing.jfif) | ![Terminal Logs](./Screenshots/Server%20Client%20Terminal%20Communication.png) |
 
 ---
 
