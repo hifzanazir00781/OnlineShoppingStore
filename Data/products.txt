@@ -1,0 +1,5 @@
+Hoodie,2200.00,11,Warm fleece hoodie
+Shirt,1200.00,9,Cotton shirt with full sleeves
+Jacket,4000.00,8,Leather jacket with zipper
+Jeans,2500.00,7,Slim fit blue jeans
+T-Shirt,800.00,14,Printed cotton T-shirt
